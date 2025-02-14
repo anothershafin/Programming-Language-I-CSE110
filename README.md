@@ -1,7 +1,7 @@
 # Programming Language I [CSE110 BRAC University]
-# CSE110: Programming Language I (Spring 2021)
+# CSE110: Programming Language I (Fall 2022)
 
-This repository contains lab assignments and solutions for the **CSE110: Programming Language I** course at BRAC University (Spring 2021). All solutions are implemented in **Python 3.9**.
+This repository contains lab assignments and solutions for the **CSE110: Programming Language I** course at BRAC University (Fall 2022). All solutions are implemented in **Python 3.9**.
 
 ## 📌 Course Overview
 CSE110 introduces fundamental programming concepts using Python. The course covers topics such as variables, data types, operators, control structures, loops, functions, and basic data structures.
