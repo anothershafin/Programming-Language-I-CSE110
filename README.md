@@ -31,12 +31,6 @@ CSE110 introduces fundamental programming concepts using Python. The course cove
 
 ### Week 11 & Week 12 (Optional): File I/O, Exception Handling, OOP (Introduction)
 
-## 🚀 Getting Started
-To run the Python scripts, ensure you have **Python 3.9** installed on your system. You can run the assignments using:
-```bash
-python filename.py
-```
-
 ## 🤝 Contributions
 Feel free to fork this repository and contribute by adding improvements or alternative solutions.
 
@@ -44,4 +38,4 @@ Feel free to fork this repository and contribute by adding improvements or alter
 This project is for educational purposes only. All rights reserved.
 
 ---
-💻 Maintained by [Your Name]
+💻 Maintained by Shafin Ahmed
