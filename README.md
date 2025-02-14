@@ -1,4 +1,4 @@
-# Programming-Language-I-CSE110
+# Programming Language I [CSE110 BRAC University]
 # CSE110: Programming Language I (Spring 2021)
 
 This repository contains lab assignments and solutions for the **CSE110: Programming Language I** course at BRAC University (Spring 2021). All solutions are implemented in **Python 3.9**.
