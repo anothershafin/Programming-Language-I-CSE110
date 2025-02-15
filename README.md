@@ -6,8 +6,12 @@ This repository contains lab assignments and solutions for the **CSE110: Program
 ## 📌 Course Overview
 CSE110 introduces fundamental programming concepts using Python. The course covers topics such as variables, data types, operators, control structures, loops, functions, and basic data structures.
 
+## 📚 Course Resources
+**Books:** https://drive.google.com/drive/folders/1CMQkK40xzI5JABUsk3BI4efFVChEnleK 
+
 ## 📚 Course Outline
 
+### Week 0: Introduction to CSE110
 ### Week 1: Variables, Data Types & Operators
 ### Week 2: Branching (if/else)
 - 📂 **CSE110 Lab Assignment 01**
