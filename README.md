@@ -12,8 +12,8 @@ CSE110 introduces fundamental programming concepts using Python. The course cove
 ## 📚 Course Outline
 
 ### Week 0: Introduction to CSE110
-### Week 1: Variables, Data Types & Operators
-- 📂 **CSE110 Lab Assignment 01**
+### [Week 1: Variables, Data Types & Operators](Programming-Language-I-CSE110/Week%2001/)
+- 📂 **[Week 1: Variables, Data Types & Operators](Programming-Language-I-CSE110/Week%2001/CSE110%20Lab%20Assignment%201%20-%20Data%20Types,%20Variables,%20and%20I_O.docx)**
 - 📂 **CSE110 Lab Assignment 01**
 ### Week 2: Branching (if/else)
 - 📂 **CSE110 Lab Assignment 01**
