@@ -14,10 +14,12 @@ CSE110 introduces fundamental programming concepts using Python. The course cove
 ### Week 0: Introduction to CSE110
 ### [Week 1: Variables, Data Types & Operators](/Week%2001/)
 - 📂 **[Variables, Data Types & Operators Theory Notes](/Week%2001/Week%201-%20Variables,%20Data%20types%20&%20Opeartors.pdf)**
-- 📂 **[Assignment 01 Lab Files](/Week%2001/CSE110%20Lab%20Assignment%201%20-%20Data%20Types,%20Variables,%20and%20I_O.docx)**
+- 📂 **[Assignment 01 Lab File](/Week%2001/CSE110%20Lab%20Assignment%201%20-%20Data%20Types,%20Variables,%20and%20I_O.docx)**
 - 📂 **[Assignment 01 Solution](/Week%2001/CSE110___Solution_of_Lab_Assignment_01.ipynb)**
-### Week 2: Branching (if/else)
-- 📂 **CSE110 Lab Assignment 01**
+### [Week 2: Branching](/Week%2002/)
+- 📂 **[Branching Theory Notes](/Week%2002/Week%202-%20Branching.pdf)**
+- 📂 **[Assignment 02 Lab File](/Week%2002/CSE110%20Lab%20Assignment%202%20-%20Branching.pdf)**
+- 📂 **[Assignment 02 Solution](/Week%2002/CSE110___Solution_of_Lab_Assignment_02.ipynb)**
 
 ### Week 3: Iterations (Loops)
 - 📂 **CSE110 Lab Assignment 02**
